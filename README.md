@@ -7,12 +7,15 @@
 - Building web applications and security projects
 
 ## Technologies
-- Python
-- Java
-- Flask
-- Git & GitHub
-- Linux
-- SQL
+
+🐍 Python  
+☕ Java  
+🌐 Flask  
+🐧 Linux  
+🛠 Git & GitHub  
+🗄 SQL
 
 ## Current Project
-📰 Haber Uygulaması
+
+📰 Haber Uygulaması  
+A Flask-based news web application with admin panel and JSON database system.
