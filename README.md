@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Muhammed Terzi 👋
 
-<!--
-**muhammedtrz/muhammedtrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Cybersecurity student
+- Junior backend developer
+- Interested in Python, Java and Linux
+- Building web applications and security projects
 
-Here are some ideas to get you started:
+## Technologies
+- Python
+- Java
+- Flask
+- Git & GitHub
+- Linux
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Project
+📰 Haber Uygulaması
